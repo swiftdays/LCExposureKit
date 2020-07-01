@@ -22,7 +22,7 @@ pod 'LCExposureKit'
 
 ## Author
 
-tc_lincong, C2020125@pccc.bankcomm.com
+pingfree, master@swiftdays.com
 
 ## License
 
