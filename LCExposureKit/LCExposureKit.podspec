@@ -28,9 +28,9 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'LCPNCAccount/Classes/*.{h}'
+  s.source_files = 'LCExposureKit/LCExposureKit/Classes/*.{h}'
   s.subspec 'LCExposureKit' do |ss|
-      ss.source_files = 'LCPNCAccount/Classes/LCExposureKit/*.{h,m}'
+      ss.source_files = 'LCExposureKit/LCExposureKit/Classes/LCExposureKit/*.{h,m}'
   end
 
 end
