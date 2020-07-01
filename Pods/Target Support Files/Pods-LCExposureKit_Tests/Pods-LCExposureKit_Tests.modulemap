@@ -1,6 +1,0 @@
-framework module Pods_LCExposureKit_Tests {
-  umbrella header "Pods-LCExposureKit_Tests-umbrella.h"
-
-  export *
-  module * { export * }
-}
