@@ -1,0 +1,16 @@
+PODS:
+  - LCExposureKit (0.1.0)
+
+DEPENDENCIES:
+  - LCExposureKit (from `../`)
+
+EXTERNAL SOURCES:
+  LCExposureKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LCExposureKit: 7ceb5dd492232594a93b004207773bc3bb1e5743
+
+PODFILE CHECKSUM: 42ef76dcfcd21880a9eb8c69b6922c9c93bbc431
+
+COCOAPODS: 1.9.1
